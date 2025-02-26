@@ -25,4 +25,3 @@
 ![Açýklama metni](CSharpAgriculture/wwwroot/assets/Intro2.png)
 ![Açýklama metni](CSharpAgriculture/wwwroot/assets/Intro3.png)
 ![Açýklama metni](CSharpAgriculture/wwwroot/assets/Intro4.png)
-![Açýklama metni](CSharpAgriculture/wwwroot/assets/Intro5.png)

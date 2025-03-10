@@ -26,6 +26,12 @@
 #*.csproj    merge=binary
 #*.vbproj    merge=binary
 #*.vcxproj   merge=binary
+
+*.cshtml linguist-vendored
+*.css linguist-vendored
+
+*.cshtml linguist-detectable=false
+*.css linguist-detectable=false
 #*.vcproj    merge=binary
 #*.dbproj    merge=binary
 #*.fsproj    merge=binary
